@@ -133,8 +133,9 @@
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=842308538&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=842308538&image_size=auto" />|
 
+<hr/>
 
-## Contact mw
+## Contact me
 
 <a href="https://www.instagram.com/kobra_gloryg/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=purple&style=for-the-badge&logo=instagram&logoColor=white alt=github style="margin-bottom: 5px;" />
