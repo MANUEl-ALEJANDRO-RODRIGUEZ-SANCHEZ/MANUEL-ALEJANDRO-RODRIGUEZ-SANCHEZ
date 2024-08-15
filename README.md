@@ -135,6 +135,23 @@
 
 <hr/>
 
+<h3>My GitHub Stats</h3>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MANUEL-ALEJANDRO-RODRIGUEZ-SANCHEZ&show_icons=true&theme=dark&locale=en&layout=compact" alt="BreadcrumbsMANUEL-ALEJANDRO-RODRIGUEZ-SANCHEZ" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MANUEL-ALEJANDRO-RODRIGUEZ-SANCHEZ&show_icons=true&theme=dark&locale=en" alt="MANUEL-ALEJANDRO-RODRIGUEZ-SANCHEZ" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MANUEL-ALEJANDRO-RODRIGUEZ-SANCHEZ&theme=dark" alt="MANUEL-ALEJANDRO-RODRIGUEZ-SANCHEZ" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MANUEL-ALEJANDRO-RODRIGUEZ-SANCHEZ&label=Profile%20views&color=0e75b6&style=flat" alt="MANUEL-ALEJANDRO-RODRIGUEZ-SANCHEZ" /> </p>
+
+------
+
 ## Contact me
 
 <a href="https://www.instagram.com/kobra_gloryg/" target="_blank">
