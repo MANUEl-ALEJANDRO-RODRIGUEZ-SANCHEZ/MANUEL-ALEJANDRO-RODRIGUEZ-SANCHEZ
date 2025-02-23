@@ -154,7 +154,7 @@
 
 ## Contact me
 
-<a href="https://www.instagram.com/kobra_gloryg/" target="_blank">
+<a href="https://www.instagram.com/ing_manuelrs/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=purple&style=for-the-badge&logo=instagram&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 <a href="mailto:manuel.rodriguez9120@alumnos.udg.mx" target="_blank">
